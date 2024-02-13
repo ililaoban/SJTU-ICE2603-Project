@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Sat May 27 23:04:29 2023
+# Process ID: 23320
+# Current directory: D:/code/lab/pjkt/project_2/project_2.runs/lpm_rom_irom_synth_1
+# Command line: vivado.exe -log lpm_rom_irom.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source lpm_rom_irom.tcl
+# Log file: D:/code/lab/pjkt/project_2/project_2.runs/lpm_rom_irom_synth_1/lpm_rom_irom.vds
+# Journal file: D:/code/lab/pjkt/project_2/project_2.runs/lpm_rom_irom_synth_1\vivado.jou
+# Running On: LAPTOP-9334Q20S, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 12, Host memory: 14877 MB
+#-----------------------------------------------------------
+source lpm_rom_irom.tcl -notrace
